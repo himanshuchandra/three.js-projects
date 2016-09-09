@@ -1,0 +1,28 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="18901m.com" resolutions="1x" timestamp="1443727964337">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="index.css" crc="399785859" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index"/>
+    <file name="museutils.js" crc="183364071" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="3860644955" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="illuzex.jpg" crc="268934098" seo="true" ref="index"/>
+    <file name="jquery.jpg" crc="205908582" seo="true" ref="index"/>
+    <file name="html.jpg" crc="225791582" seo="true" ref="index"/>
+    <file name="c.jpg" crc="241054973" seo="true" ref="index"/>
+    <file name="c--.jpg" crc="202996760" seo="true" ref="index"/>
+    <file name="u319-5.png" crc="4070377915" ref="index"/>
+    <file name="java.jpg" crc="457953558" seo="true" ref="index"/>
+    <file name="css.png" crc="4280011687" seo="true" ref="index"/>
+    <file name="jscript.jpg" crc="490644408" seo="true" ref="index"/>
+    <file name="webgl.jpg" crc="4220786544" seo="true" ref="index"/>
+    <file name="u200-5.png" crc="364981562" ref="index"/>
+    <file name="u368-20.png" crc="359550975" ref="index"/>
+  </folder>
+  <file name="index.html" crc="435267152" seo="true" mt="1443727953588" redirect="true"/>
+</manifest>
